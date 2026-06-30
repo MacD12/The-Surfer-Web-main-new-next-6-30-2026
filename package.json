@@ -1,0 +1,51 @@
+{
+  "name": "the-surfer-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "postbuild": "next-sitemap",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@types/leaflet": "^1.9.21",
+    "axios": "^1.16.1",
+    "browser-image-compression": "^2.0.2",
+    "country-flag-icons": "^1.6.17",
+    "critters": "^0.0.23",
+    "dayjs": "^1.11.20",
+    "framer-motion": "^12.38.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^4.2.1",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.526.0",
+    "next": "16.2.6",
+    "next-intl": "^4.12.0",
+    "next-sitemap": "^4.2.3",
+    "@swc/helpers": "^0.5.15",
+    "react": "19.2.4",
+    "react-datepicker": "^9.1.0",
+    "react-dom": "19.2.4",
+    "react-leaflet": "^5.0.0",
+    "react-stepper-horizontal": "^1.0.11",
+    "react-time-picker": "^8.0.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.6",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  },
+  "browserslist": [
+    "chrome 111",
+    "edge 111",
+    "firefox 111",
+    "safari 16.4"
+  ]
+}

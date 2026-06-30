@@ -1,0 +1,26 @@
+{
+  "name": "The Surfer Surfcamps",
+  "short_name": "The Surfer",
+  "description": "Premium surf camps in Sri Lanka and Morocco. World-class coaches, beachfront stays, unforgettable waves.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#00afef",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
